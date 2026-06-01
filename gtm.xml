@@ -1,0 +1,19 @@
+
+
+<Products>
+    <Product>
+        <ProductCode>P1001</ProductCode>
+        <Description>Laptop Dell Latitude</Description>
+        <CountryOfOrigin>MX</CountryOfOrigin>
+        <GlobalHSNumber>847130</GlobalHSNumber>
+        <Status>Active</Status>
+    </Product>
+
+    <Product>
+        <ProductCode>P1002</ProductCode>
+        <Description>Wireless Mouse</Description>
+        <CountryOfOrigin>CN</CountryOfOrigin>
+        <GlobalHSNumber>847160</GlobalHSNumber>
+        <Status>Active</Status>
+    </Product>
+</Products>
